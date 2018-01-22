@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1bf7e1ec36d34677b2dfa221eac7fa76" Name="Diagram1">
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.ChucVu" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.DichVu" Width="1.5" PointX="5.25" PointY="13.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.HoaDonDV" Width="1.5" PointX="5.5" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.HoaDonTT" Width="1.5" PointX="2.875" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.NhanVien" Width="1.5" PointX="3.375" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.PhongTT" Width="1.5" PointX="6.375" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.sysdiagram" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.TienNghi" Width="1.5" PointX="0.75" PointY="16.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.TienNghiPhong" Width="1.5" PointX="3" PointY="16.125" IsExpanded="true" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__NhanVien__MaCV__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__HoaDonTT__MaNV__36B12243" ManuallyRouted="false" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__TienNghiPh__MaTN__3D5E1FD2" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.PhanQuyen" Width="1.5" PointX="6" PointY="16.75" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.QuyenNV" Width="1.5" PointX="8.25" PointY="9.5" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__QuyenNV__MaNV__02084FDA" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__QuyenNV__MaNV__05D8E0BE" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__QuyenNV__MaQuyen__06CD04F7" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.PhongKS" Width="1.5" PointX="3" PointY="13.125" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__PhongTT__MaPhong__38996AB5" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__PhongTT__MaPhong__3A81B327" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.KhachHang" Width="1.5" PointX="0.5" PointY="3.25" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.LoaiPhong" Width="1.5" PointX="0.75" PointY="12.5" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__PhongKS__LoaiPho__3B75D760" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__TienNghiP__LoaiP__3C69FB99" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.DichVuSuDung" Width="1.5" PointX="10.375" PointY="1.875" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__DichVuSuDu__MaDV__2F10007B" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__DichVuSuD__MaHDD__300424B4" />
+        <EntityTypeShape EntityType="QuanLyKhachSanModel.PhieuThue" Width="1.5" PointX="10.625" PointY="5.375" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__HoaDonDV__MaPT__30F848ED" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__HoaDonTT__MaPT__35BCFE0A" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__PhieuThue__MaKH__6C190EBB" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__PhieuThue__MaNV__37703C52" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__PhongTT__MaPT__37A5467C" />
+        <AssociationConnector Association="QuanLyKhachSanModel.FK__PhongTT__MaPT__398D8EEE" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

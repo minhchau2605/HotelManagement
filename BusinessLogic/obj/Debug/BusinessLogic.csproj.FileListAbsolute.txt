@@ -1,0 +1,10 @@
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\bin\Debug\DataAccess.dll
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\bin\Debug\Entity.dll
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\bin\Debug\Entity.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\BusinessLogic\obj\Debug\BusinessLogic.dll

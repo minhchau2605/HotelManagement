@@ -1,0 +1,5 @@
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\Entity\bin\Debug\Entity.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\Entity\obj\Debug\Entity.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\Entity\bin\Debug\Entity.dll
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\Entity\obj\Debug\Entity.dll
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache

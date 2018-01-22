@@ -1,0 +1,7 @@
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\DataAccess\bin\Debug\DataAccess.dll
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\DataAccess\bin\Debug\DataAccess.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\DataAccess\obj\Debug\DataAccess.dll
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\DataAccess\obj\Debug\DataAccess.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\DataAccess\bin\Debug\Entity.pdb
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\Chau Milano\LTHSK\QuanLyKhachSan\QuanLyKhachSan\DataAccess\bin\Debug\Entity.dll
